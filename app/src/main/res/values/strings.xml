@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UpdateCheckerApp</string>
+    <string name="check_for_update">Check for Update</string>
+    <string name="current_version">Current Version:</string>
+</resources>
