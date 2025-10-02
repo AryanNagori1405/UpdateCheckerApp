@@ -36,6 +36,10 @@
         "source": "com.aryan.updatecheckerapp-main-36:/layout/activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\aryan\\.gradle\\daemon\\8.13\\com.aryan.updatecheckerapp-debug-34:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\aryan\\.gradle\\daemon\\8.13\\com.aryan.updatecheckerapp-main-36:\\xml\\file_paths.xml"
+    },
+    {
         "merged": "C:\\Users\\aryan\\.gradle\\daemon\\8.13\\com.aryan.updatecheckerapp-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\aryan\\.gradle\\daemon\\8.13\\com.aryan.updatecheckerapp-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },

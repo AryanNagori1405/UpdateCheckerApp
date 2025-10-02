@@ -4,7 +4,9 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">UpdateCheckerApp</string>
     <string name="check_for_update">Check for Update</string>
+    <string name="checking_for_updates">Checking for updates...</string>
     <string name="current_version">Current Version:</string>
+    <string name="current_version_1_0">Current Version: 1.0</string>
     <style name="Base.Theme.UpdateCheckerApp" parent="Theme.Material3.DayNight.NoActionBar">
         
         

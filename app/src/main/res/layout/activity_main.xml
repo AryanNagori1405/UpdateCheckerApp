@@ -11,25 +11,24 @@
         android:id="@+id/versionText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/current_version"
+        android:text="@string/current_version_1_0"
         android:textSize="18sp"
         android:layout_marginBottom="30dp"
         android:textColor="@android:color/black" />
-
-    <Button
-        android:id="@+id/checkUpdateBtn"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/check_for_update"
-        android:textAllCaps="false"
-        android:backgroundTint="#2196F3"
-        android:textColor="@android:color/white" />
 
     <ProgressBar
         android:id="@+id/progressBar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:visibility="gone" />
+        android:layout_marginBottom="20dp"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/checking_for_updates"
+        android:textSize="14sp"
+        android:textColor="#666666" />
 
 </LinearLayout>
